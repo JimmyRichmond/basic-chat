@@ -1,0 +1,15 @@
+body {
+  /*padding: 50px;*/
+  /*font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;*/
+}
+
+a {
+  /*color: #00B7FF;*/
+}
+
+.message-input{
+  bottom: 0;
+  height: 60px;
+  position: absolute;
+  width: 100%;
+}
